@@ -53,7 +53,7 @@ A modern, feature-rich media player built with Python, VLC, and PyQt6. Rhythms o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rhythms.git
+git clone https://github.com/MMHT2000/Rhythms-Music-Player.git
 cd rhythms
 ```
 

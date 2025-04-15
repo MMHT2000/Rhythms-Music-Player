@@ -2,7 +2,6 @@
 
 A modern, feature-rich media player built with Python, VLC, and PyQt6. Rhythms offers a sleek dark interface with advanced playback controls, video adjustments, audio equalization, and subtitle support.
 
-![Rhythms Media Player](screenshots/player.png) *(Note: Screenshot will need to be added)*
 
 ## Features
 
